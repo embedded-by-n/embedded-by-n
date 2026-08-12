@@ -23,11 +23,15 @@ Have fun exploring my Memex!
 <3
 Nina
 
-1. https://en.wikipedia.org/wiki/Memex
+
 
 
 <a href="http://www.innergeek.us"><img src="http://www.innergeek.us/grafix/buttons/iam-geekgod.jpg" alt="i am a geek god" border="0"></a>
 
+
+1. https://en.wikipedia.org/wiki/Memex
+2. https://www.innergeek.com
+   
 <!--
 **embedded-by-n/embedded-by-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
