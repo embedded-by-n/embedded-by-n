@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="http://www.innergeek.us"><img src="http://www.innergeek.us/grafix/buttons/iam-geekgod.jpg" alt="i am a geek god" border="0"></a>
+
 <!--
 **embedded-by-n/embedded-by-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
