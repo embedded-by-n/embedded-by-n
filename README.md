@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+          o
+      o
+    o
+    /`·.¸
+   /¸...¸`:·
+¸.·´  ¸   `·.¸.·´)
+: © ):´;      ¸  {
+`·.¸ `·  ¸.·´\`·¸)
+    `\´´\¸.·´
+    
+
 <a href="http://www.innergeek.us"><img src="http://www.innergeek.us/grafix/buttons/iam-geekgod.jpg" alt="i am a geek god" border="0"></a>
 
 <!--
