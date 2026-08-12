@@ -16,7 +16,9 @@ Welcome to my little corner of the internet.
 
 On my Memex [1] you will find many of my projects and ideas in the realm of Cybernetics, Music, Maths, Hacking, ASCII Arts, and many more bits and pieces...
 
-I don't use GitHub in the way I think it was designed to me.. but I enjoy doing that with most things!
+I don't use GitHub in the way I think it was designed to be.. but I do that with most things!  :D
+
+Anyways,
 
 Have fun exploring my Memex!
 
