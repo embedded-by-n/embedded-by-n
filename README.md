@@ -2,7 +2,8 @@
 
 ╭══════════════════[ MEMEX ]═══════+═══════════╮
 ║  BABEL CORE                        ◉ ONLINE  ║
-║  AURAL UPLINK                      ◉ ONLINE  ║
+║  UPLINK                            ◉ ONLINE  ║
+║                                              ║
 ║         ✦ Brought to you by BABEL™ ✦         ║
 ║ ┌──────────────────────────────────────────┐ ║
 ║ │                    o                     │ ║
@@ -17,7 +18,7 @@
 ║ │                  `\´´\¸.·´               │ ║
 ║ │                                          │ ║
 ║ │                                          │ ║
-║ │ STATUS: mostly harmless                  │ ║
+║ │                  STATUS: mostly harmless │ ║
 ║ └──────────────────────────────────────────┘ ║
 ║                                              ║
 ║     MEMORY ◁━━━━━━●━━━━━━━▷ ASSOCIATION    ║
