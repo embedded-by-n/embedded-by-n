@@ -1,10 +1,10 @@
 ```
 
-╭══[ MEMEX ✦ BROUGHT TO YOU BY BABEL ✦ ]═══+═════╮
-║  ◉ ACTIVE                         LINK : 001   ║
-║  ● LINKED                           ◉ ONLINE   ║
+╭══[ MEMEX ✦ BROUGHT TO YOU BY BABEL ✦ ]═════+═══╮
+║ ◉ ACTIVE                           LINK : 001  ║
+║ ● LINKED                             ◉ ONLINE  ║
 ║ ┌────────────────────────────────────────────┐ ║
-║ │ FISH NAME: KUMQUAT    o                    │ ║
+║ │                  o                         │ ║
 ║ │                                            │ ║
 ║ │                    o                       │ ║
 ║ │               o                            │ ║
@@ -16,7 +16,7 @@
 ║ │                   `\´´\¸.·´                │ ║
 ║ │                                            │ ║
 ║ │                                            │ ║
-║ │ STATUS: SWIMMING                           │ ║
+║ │ NAME: KUMQUAT             STATUS: SWIMMING │ ║
 ║ └────────────────────────────────────────────┘ ║
 ║                                                ║
 ║      MEMORY ◁━━━━━━●━━━━━━━━▷ ASSOCIATION    ║
