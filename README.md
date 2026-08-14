@@ -1,11 +1,11 @@
 ```
 
-╭══[ KUMQUAT // MEMEX ]═══════════════+══════════╮
+╭══[ MEMEX ✦ BROUGHT TO YOU BY BABEL ✦ ]═══+═════╮
 ║  ◉ ACTIVE                         LINK : 001   ║
 ║  ● LINKED                           ◉ ONLINE   ║
 ║ ┌────────────────────────────────────────────┐ ║
-║ │ BABEL FISH            o                    │ ║
-║ │ NAME: KUMQUAT                              │ ║
+║ │ FISH NAME: KUMQUAT    o                    │ ║
+║ │                                            │ ║
 ║ │                    o                       │ ║
 ║ │               o                            │ ║
 ║ │                    /`·.¸                   │ ║
