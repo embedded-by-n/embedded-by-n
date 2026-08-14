@@ -5,7 +5,7 @@
 ║                                           ║
 ║             brought to you by             ║
 ║     ✦ THE CYBERNETICS CORPORATION™ ✦      ║
-║ ┌───────────────────────────────────────┐ ║
+║ ╭───────────────────────────────────────╮ ║
 ║ │                 o                     │ ║
 ║ │                                       │ ║
 ║ │                o                      │ ║
@@ -19,7 +19,7 @@
 ║ │                                       │ ║
 ║ │ BABELFISH NAME: KUMQUAT               │ ║
 ║ │ STATUS: MOSTLY HARMLESS               │ ║
-║ └───────────────────────────────────────┘ ║
+║ ╰───────────────────────────────────────╯ ║
 ║                                           ║
 ║    MEMORY ◁━━━━●━━━━━━━▷ ASSOCIATION    ║
 ║                                           ║
@@ -29,7 +29,7 @@
 ║                                           ║
 ║    [ TRAIL ]   [ RECALL ]   [ EXPLORE ]   ║
 ║                                           ║
-╰═════[ PERSONAL ASSOCIATIVE TERMINAL ]═════╯
+╰═══●═[ PERSONAL ASSOCIATIVE TERMINAL ]═●═══╯
 
 ```
 Hello! 
