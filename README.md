@@ -4,7 +4,6 @@
 ║ ◉ BABEL CORE ........................◉ ONLINE  ║
 ║ ● AURAL LINK                         ◉ ONLINE  ║
 ║           ✦ Brought to you by BABEL™ ✦         ║
-
 ║ ┌────────────────────────────────────────────┐ ║
 ║ │                  o                         │ ║
 ║ │                                            │ ║
