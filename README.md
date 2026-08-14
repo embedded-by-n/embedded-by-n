@@ -1,7 +1,7 @@
 ```
 
 ╭══════[ MEMEX ]════════════════════+═══════╮
-║                     BABEL-CORE  ◉ONLINE   ║
+║                     BABEL-CORE   ◉ONLINE  ║
 ║                     PATHIC-LINK  ◉ONLINE  ║
 ║                                           ║
 ║        ✦ Brought to you by BABEL™ ✦       ║
