@@ -1,6 +1,6 @@
 ```
 
-╭══[ MEMEX ✦ BROUGHT TO YOU BY BABEL™ ✦ ]════+═══╮
+╭══[ MEMEX ✦ Brought to you by BABEL™ ✦ ]════+═══╮
 ║ ◉ ACTIVE                           LINK : 001  ║
 ║ ● LINKED                             ◉ ONLINE  ║
 ║ ┌────────────────────────────────────────────┐ ║
