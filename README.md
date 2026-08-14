@@ -17,8 +17,8 @@
 ║ │           `·.¸ `·  ¸.·´\`·¸)          │ ║
 ║ │               `\´´\¸.·´               │ ║
 ║ │                                       │ ║
-║ │                                       │ ║
-║ │BABEL FISH STATUS: MOSTLY HARMLESS     │ ║
+║ │ FISH NAME: KUMQUAT                    │ ║
+║ │ STATUS: MOSTLY HARMLESS               │ ║
 ║ └───────────────────────────────────────┘ ║
 ║                                           ║
 ║    MEMORY ◁━━━━━●━━━━━━▷ ASSOCIATION    ║
