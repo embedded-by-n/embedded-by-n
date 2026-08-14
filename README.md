@@ -1,8 +1,10 @@
 ```
 
-╭══[ MEMEX ✦ Brought to you by BABEL™ ✦ ]════+═══╮
-║ ◉ ACTIVE                           LINK : 001  ║
-║ ● LINKED                             ◉ ONLINE  ║
+╭═══════════════════[ MEMEX ]════════+═══════════╮
+║ ◉ BABEL CORE ........................◉ ONLINE  ║
+║ ● AURAL LINK                         ◉ ONLINE  ║
+║           ✦ Brought to you by BABEL™ ✦         ║
+
 ║ ┌────────────────────────────────────────────┐ ║
 ║ │                  o                         │ ║
 ║ │                                            │ ║
@@ -16,7 +18,7 @@
 ║ │                   `\´´\¸.·´                │ ║
 ║ │                                            │ ║
 ║ │                                            │ ║
-║ │ NAME: KUMQUAT             STATUS: SWIMMING │ ║
+║ │ SPECIMEN: Kumquat  STATUS: mostly harmless │ ║
 ║ └────────────────────────────────────────────┘ ║
 ║                                                ║
 ║      MEMORY ◁━━━━━━●━━━━━━━━▷ ASSOCIATION    ║
