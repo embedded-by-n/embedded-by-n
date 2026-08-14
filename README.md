@@ -17,7 +17,7 @@
 ║ │                  `\´´\¸.·´               │ ║
 ║ │                                          │ ║
 ║ │                                          │ ║
-║ │SPECIMEN: Kumquat  STATUS: mostly harmless│ ║
+║ │ STATUS: mostly harmless                  │ ║
 ║ └──────────────────────────────────────────┘ ║
 ║                                              ║
 ║     MEMORY ◁━━━━━━●━━━━━━━▷ ASSOCIATION    ║
