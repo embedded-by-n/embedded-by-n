@@ -1,10 +1,10 @@
 ```
 
-╭══════[ MEMEX ]════════════════════+═══════╮
-║                     BABEL-CORE   ◉ONLINE  ║
-║                     PATHIC-LINK  ◉ONLINE  ║
+╭═════════[MEMEX]═══════════════════+═══════╮
+║   ><°>                 BABEL-CORE◉ONLINE  ║
 ║                                           ║
-║        ✦ Brought to you by BABEL™ ✦       ║
+║             brought to you by             ║
+║     ✦ THE CYBERNETICS CORPORATION™ ✦      ║
 ║ ┌───────────────────────────────────────┐ ║
 ║ │                 o                     │ ║
 ║ │                                       │ ║
@@ -17,20 +17,20 @@
 ║ │           `·.¸ `·  ¸.·´\`·¸)          │ ║
 ║ │               `\´´\¸.·´               │ ║
 ║ │                                       │ ║
-║ │ FISH NAME: KUMQUAT                    │ ║
+║ │ BABELFISH NAME: KUMQUAT               │ ║
 ║ │ STATUS: MOSTLY HARMLESS               │ ║
 ║ └───────────────────────────────────────┘ ║
 ║                                           ║
-║    MEMORY ◁━━━━━●━━━━━━▷ ASSOCIATION    ║
+║    MEMORY ◁━━━━●━━━━━━━▷ ASSOCIATION    ║
 ║                                           ║
-║        ╭──╮             ◉   ╭───╮         ║
-║    ────┤◉◉├────         ◉   │ A │         ║
-║        ╰──╯             ◉   ╰───╯         ║
+║       ╭──╮               ◉  ╭─╮ ╭─╮ ╭─╮   ║
+║    ───┤◉◉├───────        ◉  │A│ │B│ │C│   ║
+║       ╰──╯               ◉  ╰─╯ ╰─╯ ╰─╯   ║
 ║                                           ║
-║   [ TRAIL ]   [ RECALL ]   [ EXPLORE ]    ║
+║    [ TRAIL ]   [ RECALL ]   [ EXPLORE ]   ║
 ║                                           ║
 ╰═════[ PERSONAL ASSOCIATIVE TERMINAL ]═════╯
- ══════
+
 ```
 Hello! 
 
